@@ -20,7 +20,7 @@ class MkAPIs:
     def __init__(self) -> None:
         self.theme = "default"
 
-        self.instance = "misskey.io"
+        self.instance = "koliosky.com"
         self.i = None
         self.mk = None
         self.tl = "LTL"
